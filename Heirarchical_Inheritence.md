@@ -61,6 +61,7 @@ print("\nEnter the Patient Details.....")
 pat = Patient()
 pat.getPatientDetail()
 pat.show()
+
 ## Sample Output
 <img width="1917" height="802" alt="image" src="https://github.com/user-attachments/assets/7a968507-de62-4210-8005-231a6af48b2d" />
 
